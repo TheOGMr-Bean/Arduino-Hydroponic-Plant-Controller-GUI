@@ -1,8 +1,10 @@
 # Arduino-Hydroponic-Plant-Controller-GUI
+<img align="center" src="main.jpg" />
+<&nbsp>
 Hydroponic Multi-Purpose plant controller using a 128x64 OLED display, Arduino UNO, DS1307 RTC, and Rotary Encoder.
 
 Controls Lighting and Watering for an indoor Hydroponic Garden.
-  
+
 #Plant Controller Features:
 
   * For use with either Ebb &amp; Flow systems, Bubbler (DWC) systems, NFT systems, Wicking systems, and Misting systems (aeroponics), 
