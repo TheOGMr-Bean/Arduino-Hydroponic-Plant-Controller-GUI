@@ -36,3 +36,5 @@ Controls Lighting and Watering for an indoor Hydroponic Garden.
   * On Time can be set any time between 12:00 AM and 11:59 PM
   * Off Time can be set any time between 12:00 AM and 11:59 PM
   * Controls two 110VAC Light Outputs using included Power Supply Switching Schematic
+
+<img align="left" src="Plant Controller Schematic.bmp" />
