@@ -1,11 +1,11 @@
 # Arduino-Hydroponic-Plant-Controller-GUI
 <img align="center" src="main.jpg" />
 
-Hydroponic Multi-Purpose plant controller using a 128x64 OLED display, Arduino UNO, DS1307 RTC, and Rotary Encoder.
+## Hydroponic Multi-Purpose plant controller using a 128x64 OLED display, Arduino UNO, DS1307 RTC, and Rotary Encoder.
 
-Controls Lighting and Watering for an indoor Hydroponic Garden.
+## Controls Lighting and Watering for an indoor Hydroponic Garden.
 
-#Plant Controller Features:
+###Plant Controller Features:
 
   * For use with either Ebb &amp; Flow systems, Bubbler (DWC) systems, NFT systems, Wicking systems, and Misting systems (aeroponics), 
   * Arduino Based - Written for UNO, easily ported to Mega. NOT AVAILABLE FOR NANO
@@ -22,7 +22,7 @@ Controls Lighting and Watering for an indoor Hydroponic Garden.
       * 2 = 110VAC Outputs for Aeration/H2O Pumps
     
     
-#Pump/Drain Timer Characteristics: 
+###Pump/Drain Timer Characteristics: 
 
   * User selectable 
   * Adjustable ON time up to 60 Minutes
@@ -31,10 +31,11 @@ Controls Lighting and Watering for an indoor Hydroponic Garden.
     * Off Minutes adjustable up to 60
   * Pump Timer executes "Auto ON" as soon as Auto is turned on (handy for priming system on first use)
 
-#Light Timer Characteristics:
+###Light Timer Characteristics:
 
   * On Time can be set any time between 12:00 AM and 11:59 PM
   * Off Time can be set any time between 12:00 AM and 11:59 PM
   * Controls two 110VAC Light Outputs using included Power Supply Switching Schematic
 
+###Schematic:
 <img align="left" src="Plant Controller Schematic.bmp" />
