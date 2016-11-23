@@ -1,6 +1,19 @@
-/* ********USE OF ANY PART OF THIS CODE OR ANY OTHER INFORMATION ASSOCIATED WITH THIS PROJECT FOR PROFIT OR FINANCIAL GAIN WITHOUT EXPRESS PERMISSION IS NOT PERMITTED!**********
-   PLEASE RESPECT OTHER PEOPLES WORK!
-   Feel free to use/modify this project for use as a tool to help provide better food for your family, or to learn, or to better yourself in any other way (other than financial gain).
+/* 
+Copyright 2016 Chris Bean
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Feel free to use/modify this project for use as a tool to help provide better food for your family, or to learn, or to better yourself in any other way (other than financial gain).
 */
 
 #include <SPI.h>
