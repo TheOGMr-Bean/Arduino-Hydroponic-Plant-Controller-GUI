@@ -37,7 +37,7 @@
   * Off Time can be set any time between 12:00 AM and 11:59 PM
   * Controls two 110VAC Light Outputs using included Power Supply Switching Schematic
 
-###Download Plant_Controller_V2_2.ZIP for Source Code and Technical Drawings. 
+###Download Plant_Controller_v2_2.ZIP for Source Code and Technical Drawings. 
 
 ###Schematic:
 <img align="left" src="Plant Controller Schematic.bmp" />
