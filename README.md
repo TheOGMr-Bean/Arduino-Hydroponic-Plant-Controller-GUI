@@ -39,5 +39,7 @@
 
 ###Download Plant_Controller_v2_2.ZIP for Source Code and Technical Drawings. 
 
+###Schematic is written to provide 120v to all devices, schematic/code will need to be adjusted to use devices of different voltage or PWM controlled devices. PWM and variable voltage control will be available in the next version. 
+
 ###Schematic:
 <img align="left" src="Plant Controller Schematic.bmp" />
