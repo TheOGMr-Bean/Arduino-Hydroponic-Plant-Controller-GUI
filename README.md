@@ -7,7 +7,7 @@
 
 ###Plant Controller Features:
 
-  * For use with either Ebb &amp; Flow systems, Bubbler (DWC) systems, NFT systems, Wicking systems, and Misting systems (aeroponics), 
+  * For use with either Ebb &amp; Flow systems, Bubbler (DWC) systems, NFT systems, Wicking systems, and Misting systems (aeroponics)
   * Arduino Based - Written for UNO, easily ported to Mega. NOT AVAILABLE FOR NANO
   * Rotary Encoder driven GUI
   * Interactive Menu System
